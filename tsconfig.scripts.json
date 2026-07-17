@@ -1,0 +1,14 @@
+{
+  "extends": "./tsconfig.base.json",
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@signsaarthi/avatar-engine": ["packages/avatar-engine/src/index.ts"],
+      "@signsaarthi/isl-engine": ["packages/isl-engine/src/index.ts"],
+      "@signsaarthi/isl-model": ["packages/isl-model/src/index.ts"],
+      "@signsaarthi/isl-video-model": ["packages/isl-video-model/src/index.ts"],
+      "@signsaarthi/shared": ["packages/shared/src/index.ts"]
+    }
+  },
+  "include": ["scripts/**/*.ts", "packages/*/src/**/*.ts"]
+}

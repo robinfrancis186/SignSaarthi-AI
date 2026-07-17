@@ -1,0 +1,4 @@
+huggingface-hub>=1.4,<2
+httpx>=0.27,<1
+numpy>=1.26,<3
+pose-format>=0.14,<1

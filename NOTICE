@@ -1,0 +1,38 @@
+SignSaarthi AI third-party data and model notice
+
+No software license grant is made by this notice. The project owner must choose
+and publish a software license separately before redistribution.
+
+ISLRTC Indian Sign Language Dictionary
+Copyright and attribution: Indian Sign Language Research and Training Centre,
+Department of Empowerment of Persons with Disabilities, Ministry of Social
+Justice and Empowerment, Government of India.
+Usage policy: https://islrtc.nic.in/faq/
+The official FAQ permits dictionary use for research, teaching, and development
+of ISL-related technology provided that the data are not resold or used for
+profiteering and proper acknowledgement is given. SignSaarthi does not bundle
+the raw ISLRTC dictionary videos. Its A-Z avatar landmarks are an automated
+transfer from an official source and are not expert-certified.
+
+INCLUDE
+Sridhar et al., "INCLUDE: A Large Scale Dataset for Indian Sign Language
+Recognition", ACM Multimedia 2020.
+Source: https://github.com/AI4Bharat/INCLUDE
+Media record: https://zenodo.org/records/4010759
+License recorded by the source: Creative Commons Attribution 4.0 International.
+SignSaarthi retains per-clip provenance and attribution. Dataset-derived motion
+is automated and is not expert-certified ISL.
+
+iSign
+Joshi et al., "iSign: A Benchmark for Indian Sign Language Processing",
+Findings of ACL 2024.
+Source: https://huggingface.co/datasets/Exploration-Lab/iSign
+License: CC BY-NC-SA 4.0 with gated terms restricting use to research and
+prohibiting commercial use or re-upload of the dataset. iSign source rows,
+videos, poses, and UIDs are private local research inputs only. They are not in
+the public Robin186/ISL bundle or distributable SignSaarthi release.
+
+Safety boundary
+SignSaarthi is AI-assisted and may make mistakes. Automated avatar output is
+not a certified interpreter replacement. Use a qualified human interpreter for
+medical, legal, emergency, or other high-stakes communication.

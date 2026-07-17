@@ -1,0 +1,1928 @@
+{
+  "schemaVersion": 1,
+  "zenodoRecordId": "4010759",
+  "completed": {
+    "include-afternoon": {
+      "sourceSampleId": "include_train_cc50a31f316effad",
+      "sourceVideoPath": "Days_and_Time/83. Afternoon/MVI_5065.MOV",
+      "sourceArchive": "Days_and_Time_3of3.zip",
+      "preferredCatalogSample": true,
+      "elapsedSeconds": 15.952
+    },
+    "include-animal": {
+      "sourceSampleId": "include_train_6345ecb8f38156a5",
+      "sourceVideoPath": "Animals/8. Animal/MVI_3109.MOV",
+      "sourceArchive": "Animals_2of2.zip",
+      "preferredCatalogSample": true,
+      "elapsedSeconds": 26.481
+    },
+    "include-baby": {
+      "sourceSampleId": "include_train_95b9cee0fcaabf78",
+      "sourceVideoPath": "People/63. Baby/MVI_5235.MOV",
+      "sourceArchive": "People_2of5.zip",
+      "preferredCatalogSample": true,
+      "elapsedSeconds": 27.296
+    },
+    "include-bad": {
+      "sourceSampleId": "include_train_a6326b5bd8e5acd1",
+      "sourceVideoPath": "Adjectives/95. bad/MVI_5241.MOV",
+      "sourceArchive": "Adjectives_7of8.zip",
+      "preferredCatalogSample": true,
+      "elapsedSeconds": 22.302
+    },
+    "include-bag": {
+      "sourceSampleId": "include_train_90dc3f688d41637b",
+      "sourceVideoPath": "Home/45. Bag/MVI_9074.MP4",
+      "sourceArchive": "Home_3of4.zip",
+      "preferredCatalogSample": true,
+      "elapsedSeconds": 10.94
+    },
+    "include-ball": {
+      "sourceSampleId": "include_train_cff2fd57d1434701",
+      "sourceVideoPath": "Society/19. Ball/MVI_8730.MP4",
+      "sourceArchive": "Society_3of3.zip",
+      "preferredCatalogSample": true,
+      "elapsedSeconds": 17.496
+    },
+    "include-bank": {
+      "sourceSampleId": "include_train_6cc3750ed83d2be7",
+      "sourceVideoPath": "Places/35. Bank/MVI_3584.MOV",
+      "sourceArchive": "Places_4of4.zip",
+      "preferredCatalogSample": true,
+      "elapsedSeconds": 14.337
+    },
+    "include-bed": {
+      "sourceSampleId": "include_train_7e34a44075fbc823",
+      "sourceVideoPath": "Home/26. Bed/MVI_8760.MP4",
+      "sourceArchive": "Home_1of4.zip",
+      "preferredCatalogSample": true,
+      "elapsedSeconds": 33.493
+    },
+    "include-bedroom": {
+      "sourceSampleId": "include_train_8c83b99ab92ec257",
+      "sourceVideoPath": "Home/30. Bedroom/MVI_4373.MOV",
+      "sourceArchive": "Home_1of4.zip",
+      "preferredCatalogSample": true,
+      "elapsedSeconds": 35.492
+    },
+    "include-box": {
+      "sourceSampleId": "include_train_6ca9975227157b0f",
+      "sourceVideoPath": "Home/46. Box/MVI_4438.MOV",
+      "sourceArchive": "Home_4of4.zip",
+      "preferredCatalogSample": true,
+      "elapsedSeconds": 18.733
+    },
+    "include-brother": {
+      "sourceSampleId": "include_train_4cc44fe3b920f3c2",
+      "sourceVideoPath": "People/66. Brother/MVI_5095.MOV",
+      "sourceArchive": "People_2of5.zip",
+      "preferredCatalogSample": true,
+      "elapsedSeconds": 20.834
+    },
+    "include-camera": {
+      "sourceSampleId": "include_train_7b741cc3bc7e5c78",
+      "sourceVideoPath": "Electronics/58. Camera/MVI_4553.MOV",
+      "sourceArchive": "Electronics_2of2.zip",
+      "preferredCatalogSample": false,
+      "elapsedSeconds": 9.368
+    },
+    "include-card": {
+      "sourceSampleId": "include_train_7017f53820577a85",
+      "sourceVideoPath": "Home/48. Card/MVI_9084.MP4",
+      "sourceArchive": "Home_4of4.zip",
+      "preferredCatalogSample": true,
+      "elapsedSeconds": 24.129
+    },
+    "include-cellphone": {
+      "sourceSampleId": "include_train_44295041ba7e69c1",
+      "sourceVideoPath": "Electronics/54. Cell phone/MVI_4967.MOV",
+      "sourceArchive": "Electronics_1of2.zip",
+      "preferredCatalogSample": true,
+      "elapsedSeconds": 15.946
+    },
+    "include-chair": {
+      "sourceSampleId": "include_train_3c4b707fbe82c0e0",
+      "sourceVideoPath": "Home/25. Chair/MVI_9004.MP4",
+      "sourceArchive": "Home_1of4.zip",
+      "preferredCatalogSample": true,
+      "elapsedSeconds": 21.091
+    },
+    "include-clock": {
+      "sourceSampleId": "include_train_09b7f3ce721f3504",
+      "sourceVideoPath": "Electronics/51. Clock/MVI_9091.MP4",
+      "sourceArchive": "Electronics_1of2.zip",
+      "preferredCatalogSample": true,
+      "elapsedSeconds": 33.352
+    },
+    "include-cold": {
+      "sourceSampleId": "include_train_2ba15cfc637b6c0f",
+      "sourceVideoPath": "Adjectives/88. cold/MVI_5300.MOV",
+      "sourceArchive": "Adjectives_6of8.zip",
+      "preferredCatalogSample": true,
+      "elapsedSeconds": 25.175
+    },
+    "include-computer": {
+      "sourceSampleId": "include_train_1de7914fb4ea0440",
+      "sourceVideoPath": "Electronics/55. Computer/MVI_4972.MOV",
+      "sourceArchive": "Electronics_1of2.zip",
+      "preferredCatalogSample": true,
+      "elapsedSeconds": 30.94
+    },
+    "include-cool": {
+      "sourceSampleId": "include_train_ead27a0b5068698d",
+      "sourceVideoPath": "Adjectives/90. cool/MVI_5226.MOV",
+      "sourceArchive": "Adjectives_6of8.zip",
+      "preferredCatalogSample": true,
+      "elapsedSeconds": 22.632
+    },
+    "include-door": {
+      "sourceSampleId": "include_train_520208437f86e8e0",
+      "sourceVideoPath": "Home/29. Door/MVI_9016.MP4",
+      "sourceArchive": "Home_1of4.zip",
+      "preferredCatalogSample": true,
+      "elapsedSeconds": 13.73
+    },
+    "include-dream": {
+      "sourceSampleId": "include_train_49ffdc0162b12abd",
+      "sourceVideoPath": "Home/27. Dream/MVI_4361.MOV",
+      "sourceArchive": "Home_1of4.zip",
+      "preferredCatalogSample": true,
+      "elapsedSeconds": 36.151
+    },
+    "include-dry": {
+      "sourceSampleId": "include_train_7cf5cc13c59fcf71",
+      "sourceVideoPath": "Adjectives/97. dry/MVI_9278.MOV",
+      "sourceArchive": "Adjectives_8of8.zip",
+      "preferredCatalogSample": true,
+      "elapsedSeconds": 10.509
+    },
+    "include-evening": {
+      "sourceSampleId": "include_train_1247c8b45681d7b8",
+      "sourceVideoPath": "Days_and_Time/84. Evening/MVI_4661.MOV",
+      "sourceArchive": "Days_and_Time_3of3.zip",
+      "preferredCatalogSample": true,
+      "elapsedSeconds": 18.003
+    },
+    "include-exercise": {
+      "sourceSampleId": "include_train_01d7ffcf0f1a194e",
+      "sourceVideoPath": "Society/18. Exercise/MVI_8727.MP4",
+      "sourceArchive": "Society_3of3.zip",
+      "preferredCatalogSample": true,
+      "elapsedSeconds": 20.79
+    },
+    "include-exmonsoon": {
+      "sourceSampleId": "include_train_d0eabc751988b855",
+      "sourceVideoPath": "Seasons/Ex. Monsoon/MVI_9205.MP4",
+      "sourceArchive": "Seasons_1of1.zip",
+      "preferredCatalogSample": true,
+      "elapsedSeconds": 16.493
+    },
+    "include-fall": {
+      "sourceSampleId": "include_train_91b5ca25aba12967",
+      "sourceVideoPath": "Seasons/64. Fall/MVI_5435.MOV",
+      "sourceArchive": "Seasons_1of1.zip",
+      "preferredCatalogSample": true,
+      "elapsedSeconds": 17.142
+    },
+    "include-famous": {
+      "sourceSampleId": "include_train_074f2279f9d65544",
+      "sourceVideoPath": "Adjectives/39. famous/MVI_9843.MOV",
+      "sourceArchive": "Adjectives_4of8.zip",
+      "preferredCatalogSample": true,
+      "elapsedSeconds": 26.296
+    },
+    "include-fan": {
+      "sourceSampleId": "include_train_7e1ebd264879c98d",
+      "sourceVideoPath": "Electronics/53. Fan/MVI_5390.MOV",
+      "sourceArchive": "Electronics_1of2.zip",
+      "preferredCatalogSample": true,
+      "elapsedSeconds": 30.161
+    },
+    "include-friday": {
+      "sourceSampleId": "include_train_bb2a7707ade91c54",
+      "sourceVideoPath": "Days_and_Time/71. Friday/MVI_4607.MOV",
+      "sourceArchive": "Days_and_Time_1of3.zip",
+      "preferredCatalogSample": true,
+      "elapsedSeconds": 27.679
+    },
+    "include-gift": {
+      "sourceSampleId": "include_train_9d1c28fbe89b796a",
+      "sourceVideoPath": "Home/47. Gift/MVI_4949.MOV",
+      "sourceArchive": "Home_4of4.zip",
+      "preferredCatalogSample": true,
+      "elapsedSeconds": 13.804
+    },
+    "include-god": {
+      "sourceSampleId": "include_train_229ee3b7c9624ba7",
+      "sourceVideoPath": "Society/23. God/MVI_4340.MOV",
+      "sourceArchive": "Society_3of3.zip",
+      "preferredCatalogSample": true,
+      "elapsedSeconds": 15.602
+    },
+    "include-good": {
+      "sourceSampleId": "include_train_2f20e4da3fef80f1",
+      "sourceVideoPath": "Adjectives/94. good/MVI_9351.MOV",
+      "sourceArchive": "Adjectives_7of8.zip",
+      "preferredCatalogSample": true,
+      "elapsedSeconds": 12.568
+    },
+    "include-goodevening": {
+      "sourceSampleId": "include_train_b7082562bc49592c",
+      "sourceVideoPath": "Greetings/53. Good evening/MVI_9943.MOV",
+      "sourceArchive": "Greetings_2of2.zip",
+      "preferredCatalogSample": true,
+      "elapsedSeconds": 19.401
+    },
+    "include-goodnight": {
+      "sourceSampleId": "include_train_abf5de6ac8af477d",
+      "sourceVideoPath": "Greetings/54. Good night/MVI_0110.MOV",
+      "sourceArchive": "Greetings_2of2.zip",
+      "preferredCatalogSample": true,
+      "elapsedSeconds": 22.065
+    },
+    "include-ground": {
+      "sourceSampleId": "include_train_5cc220810fe905f7",
+      "sourceVideoPath": "Places/34. Ground/MVI_3657.MOV",
+      "sourceArchive": "Places_4of4.zip",
+      "preferredCatalogSample": true,
+      "elapsedSeconds": 30.525
+    },
+    "include-healthy": {
+      "sourceSampleId": "include_train_1c61895330d4ba2e",
+      "sourceVideoPath": "Adjectives/99. healthy/MVI_9287.MOV",
+      "sourceArchive": "Adjectives_8of8.zip",
+      "preferredCatalogSample": true,
+      "elapsedSeconds": 61.079
+    },
+    "include-horse": {
+      "sourceSampleId": "include_train_194ea8a4b60a45fe",
+      "sourceVideoPath": "Animals/7. Horse/MVI_3053.MOV",
+      "sourceArchive": "Animals_2of2.zip",
+      "preferredCatalogSample": true,
+      "elapsedSeconds": 19.296
+    },
+    "include-hot": {
+      "sourceSampleId": "include_train_1abb1e3f9220f23b",
+      "sourceVideoPath": "Adjectives/87. hot/MVI_5295.MOV",
+      "sourceArchive": "Adjectives_6of8.zip",
+      "preferredCatalogSample": true,
+      "elapsedSeconds": 20.227
+    },
+    "include-hour": {
+      "sourceSampleId": "include_train_59a435d2f5e34974",
+      "sourceVideoPath": "Days_and_Time/79. Hour/MVI_4641.MOV",
+      "sourceArchive": "Days_and_Time_2of3.zip",
+      "preferredCatalogSample": true,
+      "elapsedSeconds": 22.843
+    },
+    "include-india": {
+      "sourceSampleId": "include_train_6c77bfa1356e5f58",
+      "sourceVideoPath": "Places/33. India/MVI_3573.MOV",
+      "sourceArchive": "Places_4of4.zip",
+      "preferredCatalogSample": true,
+      "elapsedSeconds": 19.5
+    },
+    "include-key": {
+      "sourceSampleId": "include_train_50eb9d4abc4070d3",
+      "sourceVideoPath": "Home/39. Key/MVI_8815.MP4",
+      "sourceArchive": "Home_3of4.zip",
+      "preferredCatalogSample": true,
+      "elapsedSeconds": 11.672
+    },
+    "include-lamp": {
+      "sourceSampleId": "include_train_6991340b842c14bc",
+      "sourceVideoPath": "Electronics/52. Lamp/MVI_5386.MOV",
+      "sourceArchive": "Electronics_1of2.zip",
+      "preferredCatalogSample": true,
+      "elapsedSeconds": 37.172
+    },
+    "include-laptop": {
+      "sourceSampleId": "include_train_b0d5b576cfc14b0e",
+      "sourceVideoPath": "Electronics/56. Laptop/MVI_4545.MOV",
+      "sourceArchive": "Electronics_2of2.zip",
+      "preferredCatalogSample": false,
+      "elapsedSeconds": 37.226
+    },
+    "include-letter": {
+      "sourceSampleId": "include_train_92c50e3e71aafee6",
+      "sourceVideoPath": "Home/41. Letter/MVI_8824.MP4",
+      "sourceArchive": "Home_3of4.zip",
+      "preferredCatalogSample": true,
+      "elapsedSeconds": 24.313
+    },
+    "include-light": {
+      "sourceSampleId": "include_train_77abceb5c57a497c",
+      "sourceVideoPath": "Adjectives/36. light/MVI_9838.MOV",
+      "sourceArchive": "Adjectives_4of8.zip",
+      "preferredCatalogSample": true,
+      "elapsedSeconds": 8.548
+    },
+    "include-location": {
+      "sourceSampleId": "include_train_395be07b19a748a8",
+      "sourceVideoPath": "Places/36. Location/MVI_3587.MOV",
+      "sourceArchive": "Places_4of4.zip",
+      "preferredCatalogSample": true,
+      "elapsedSeconds": 19.678
+    },
+    "include-lock": {
+      "sourceSampleId": "include_train_75290dfdbfa1ec80",
+      "sourceVideoPath": "Home/43. Lock/MVI_9060.MP4",
+      "sourceArchive": "Home_3of4.zip",
+      "preferredCatalogSample": true,
+      "elapsedSeconds": 22.465
+    },
+    "include-long": {
+      "sourceSampleId": "include_train_1c9b6dc6022f22fc",
+      "sourceVideoPath": "Adjectives/78. long/MVI_9219.MOV",
+      "sourceArchive": "Adjectives_4of8.zip",
+      "preferredCatalogSample": true,
+      "elapsedSeconds": 17.559
+    },
+    "include-man": {
+      "sourceSampleId": "include_train_01b16cc65d728fb6",
+      "sourceVideoPath": "People/64. Man/MVI_5091.MOV",
+      "sourceArchive": "People_2of5.zip",
+      "preferredCatalogSample": true,
+      "elapsedSeconds": 11.107
+    },
+    "include-minute": {
+      "sourceSampleId": "include_train_4631ea233ce689cf",
+      "sourceVideoPath": "Days_and_Time/80. Minute/MVI_4644.MOV",
+      "sourceArchive": "Days_and_Time_2of3.zip",
+      "preferredCatalogSample": true,
+      "elapsedSeconds": 13.835
+    },
+    "include-monday": {
+      "sourceSampleId": "include_train_0a029c1168d4c639",
+      "sourceVideoPath": "Days_and_Time/67. Monday/MVI_5011.MOV",
+      "sourceArchive": "Days_and_Time_1of3.zip",
+      "preferredCatalogSample": true,
+      "elapsedSeconds": 15.212
+    },
+    "include-month": {
+      "sourceSampleId": "include_train_bdd312ec107d2d71",
+      "sourceVideoPath": "Days_and_Time/77. Month/MVI_4634.MOV",
+      "sourceArchive": "Days_and_Time_2of3.zip",
+      "preferredCatalogSample": true,
+      "elapsedSeconds": 15.549
+    },
+    "include-morning": {
+      "sourceSampleId": "include_train_08c6726050458820",
+      "sourceVideoPath": "Days_and_Time/82. Morning/MVI_5060.MOV",
+      "sourceArchive": "Days_and_Time_3of3.zip",
+      "preferredCatalogSample": true,
+      "elapsedSeconds": 23.301
+    },
+    "include-mouse": {
+      "sourceSampleId": "include_train_07924b97cddb4a1b",
+      "sourceVideoPath": "Animals/6. Mouse/MVI_8572.MP4",
+      "sourceArchive": "Animals_2of2.zip",
+      "preferredCatalogSample": true,
+      "elapsedSeconds": 19.818
+    },
+    "include-new": {
+      "sourceSampleId": "include_train_414c9ff08acc3090",
+      "sourceVideoPath": "Adjectives/91. new/MVI_9261.MOV",
+      "sourceArchive": "Adjectives_6of8.zip",
+      "preferredCatalogSample": true,
+      "elapsedSeconds": 23.654
+    },
+    "include-night": {
+      "sourceSampleId": "include_train_3d0600b898d7fd5d",
+      "sourceVideoPath": "Days_and_Time/85. Night/MVI_5073.MOV",
+      "sourceArchive": "Days_and_Time_3of3.zip",
+      "preferredCatalogSample": true,
+      "elapsedSeconds": 17.297
+    },
+    "include-old": {
+      "sourceSampleId": "include_train_a7046e1476c705e1",
+      "sourceVideoPath": "Adjectives/92. old/MVI_9263.MOV",
+      "sourceArchive": "Adjectives_7of8.zip",
+      "preferredCatalogSample": true,
+      "elapsedSeconds": 24.223
+    },
+    "include-paint": {
+      "sourceSampleId": "include_train_2dfe796f5b321cba",
+      "sourceVideoPath": "Home/40. Paint/MVI_4927.MOV",
+      "sourceArchive": "Home_3of4.zip",
+      "preferredCatalogSample": true,
+      "elapsedSeconds": 19.37
+    },
+    "include-paper": {
+      "sourceSampleId": "include_train_382ce887f4a2c5c4",
+      "sourceVideoPath": "Home/42. Paper/MVI_8829.MP4",
+      "sourceArchive": "Home_3of4.zip",
+      "preferredCatalogSample": true,
+      "elapsedSeconds": 26.322
+    },
+    "include-pleased": {
+      "sourceSampleId": "include_train_96c035997b83d3a8",
+      "sourceVideoPath": "Greetings/56. Pleased/MVI_9988.MOV",
+      "sourceArchive": "Greetings_2of2.zip",
+      "preferredCatalogSample": true,
+      "elapsedSeconds": 28.432
+    },
+    "include-price": {
+      "sourceSampleId": "include_train_c94dd1b546b75734",
+      "sourceVideoPath": "Society/20. Price/MVI_4330.MOV",
+      "sourceArchive": "Society_3of3.zip",
+      "preferredCatalogSample": true,
+      "elapsedSeconds": 9.971
+    },
+    "include-radio": {
+      "sourceSampleId": "include_train_ea4948766817d21e",
+      "sourceVideoPath": "Electronics/60. Radio/MVI_4561.MOV",
+      "sourceArchive": "Electronics_2of2.zip",
+      "preferredCatalogSample": false,
+      "elapsedSeconds": 37.607
+    },
+    "include-ring": {
+      "sourceSampleId": "include_train_5f70212363f0515d",
+      "sourceVideoPath": "Home/49. Ring/MVI_4953.MOV",
+      "sourceArchive": "Home_4of4.zip",
+      "preferredCatalogSample": true,
+      "elapsedSeconds": 14.62
+    },
+    "include-saturday": {
+      "sourceSampleId": "include_train_cbff0c00099daf5e",
+      "sourceVideoPath": "Days_and_Time/72. Saturday/MVI_5466.MOV",
+      "sourceArchive": "Days_and_Time_1of3.zip",
+      "preferredCatalogSample": true,
+      "elapsedSeconds": 15.212
+    },
+    "include-science": {
+      "sourceSampleId": "include_train_0b3360108eb23202",
+      "sourceVideoPath": "Society/22. Science/MVI_8742.MP4",
+      "sourceArchive": "Society_3of3.zip",
+      "preferredCatalogSample": true,
+      "elapsedSeconds": 26.897
+    },
+    "include-screen": {
+      "sourceSampleId": "include_train_6e602408fc995755",
+      "sourceVideoPath": "Electronics/57. Screen/MVI_4549.MOV",
+      "sourceArchive": "Electronics_2of2.zip",
+      "preferredCatalogSample": false,
+      "elapsedSeconds": 41.289
+    },
+    "include-season": {
+      "sourceSampleId": "include_train_a52837966561a6e8",
+      "sourceVideoPath": "Seasons/65. Season/MVI_5438.MOV",
+      "sourceArchive": "Seasons_1of1.zip",
+      "preferredCatalogSample": true,
+      "elapsedSeconds": 30.447
+    },
+    "include-second": {
+      "sourceSampleId": "include_train_550d669e453ee798",
+      "sourceVideoPath": "Days_and_Time/81. Second/MVI_9186.MP4",
+      "sourceArchive": "Days_and_Time_3of3.zip",
+      "preferredCatalogSample": true,
+      "elapsedSeconds": 41.734
+    },
+    "include-short": {
+      "sourceSampleId": "include_train_0dfe628bfa9ce4e8",
+      "sourceVideoPath": "Adjectives/79. short/MVI_5270.MOV",
+      "sourceArchive": "Adjectives_4of8.zip",
+      "preferredCatalogSample": true,
+      "elapsedSeconds": 34.587
+    },
+    "include-sick": {
+      "sourceSampleId": "include_train_b17dae0a8e25d9cc",
+      "sourceVideoPath": "Adjectives/98. sick/MVI_9442.MOV",
+      "sourceArchive": "Adjectives_8of8.zip",
+      "preferredCatalogSample": true,
+      "elapsedSeconds": 19.481
+    },
+    "include-sign": {
+      "sourceSampleId": "include_train_aec0f59906a4ef6b",
+      "sourceVideoPath": "Society/21. Sign/MVI_8741.MP4",
+      "sourceArchive": "Society_3of3.zip",
+      "preferredCatalogSample": true,
+      "elapsedSeconds": 26.631
+    },
+    "include-sister": {
+      "sourceSampleId": "include_train_6599915a4559028d",
+      "sourceVideoPath": "People/67. Sister/MVI_5248.MOV",
+      "sourceArchive": "People_2of5.zip",
+      "preferredCatalogSample": true,
+      "elapsedSeconds": 24.743
+    },
+    "include-sport": {
+      "sourceSampleId": "include_train_2eeb32515df63560",
+      "sourceVideoPath": "Society/17. Sport/MVI_8725.MP4",
+      "sourceArchive": "Society_3of3.zip",
+      "preferredCatalogSample": true,
+      "elapsedSeconds": 26.55
+    },
+    "include-spring": {
+      "sourceSampleId": "include_train_145b8013542cf26b",
+      "sourceVideoPath": "Seasons/62. Spring/MVI_5427.MOV",
+      "sourceArchive": "Seasons_1of1.zip",
+      "preferredCatalogSample": true,
+      "elapsedSeconds": 26.298
+    },
+    "include-summer": {
+      "sourceSampleId": "include_train_c98b0af80ea4fc40",
+      "sourceVideoPath": "Seasons/61. Summer/MVI_4565.MOV",
+      "sourceArchive": "Seasons_1of1.zip",
+      "preferredCatalogSample": false,
+      "elapsedSeconds": 47.577
+    },
+    "include-sunday": {
+      "sourceSampleId": "include_train_2b0fe0d31776ead5",
+      "sourceVideoPath": "Days_and_Time/66. Sunday/MVI_4589.MOV",
+      "sourceArchive": "Days_and_Time_1of3.zip",
+      "preferredCatalogSample": true,
+      "elapsedSeconds": 34.313
+    },
+    "include-table": {
+      "sourceSampleId": "include_train_9692061da9142c94",
+      "sourceVideoPath": "Home/24. Table/MVI_8752.MP4",
+      "sourceArchive": "Home_1of4.zip",
+      "preferredCatalogSample": true,
+      "elapsedSeconds": 28.541
+    },
+    "include-tall": {
+      "sourceSampleId": "include_train_8b48e69cd1b93721",
+      "sourceVideoPath": "Adjectives/80. tall/MVI_5196.MOV",
+      "sourceArchive": "Adjectives_4of8.zip",
+      "preferredCatalogSample": true,
+      "elapsedSeconds": 25.259
+    },
+    "include-telephone": {
+      "sourceSampleId": "include_train_d933c5cc3f89015f",
+      "sourceVideoPath": "Home/44. Telephone/MVI_4938.MOV",
+      "sourceArchive": "Home_3of4.zip",
+      "preferredCatalogSample": true,
+      "elapsedSeconds": 14.037
+    },
+    "include-television": {
+      "sourceSampleId": "include_train_926f4f582b4ef75e",
+      "sourceVideoPath": "Electronics/59. Television/MVI_4557.MOV",
+      "sourceArchive": "Electronics_2of2.zip",
+      "preferredCatalogSample": false,
+      "elapsedSeconds": 31.133
+    },
+    "include-thankyou": {
+      "sourceSampleId": "include_train_1c29ce212acd271d",
+      "sourceVideoPath": "Greetings/55. Thank you/MVI_0058.MOV",
+      "sourceArchive": "Greetings_2of2.zip",
+      "preferredCatalogSample": true,
+      "elapsedSeconds": 24.807
+    },
+    "include-they": {
+      "sourceSampleId": "include_train_1e7ef65d110ebab2",
+      "sourceVideoPath": "Pronouns/47. they/MVI_0087.MOV",
+      "sourceArchive": "Pronouns_2of2.zip",
+      "preferredCatalogSample": true,
+      "elapsedSeconds": 17.872
+    },
+    "include-thursday": {
+      "sourceSampleId": "include_train_d81c13154cd1c4fb",
+      "sourceVideoPath": "Days_and_Time/70. Thursday/MVI_9153.MP4",
+      "sourceArchive": "Days_and_Time_1of3.zip",
+      "preferredCatalogSample": true,
+      "elapsedSeconds": 30.625
+    },
+    "include-time": {
+      "sourceSampleId": "include_train_1a1753c4fcac1192",
+      "sourceVideoPath": "Days_and_Time/86. Time/MVI_9203.MP4",
+      "sourceArchive": "Days_and_Time_3of3.zip",
+      "preferredCatalogSample": true,
+      "elapsedSeconds": 16.274
+    },
+    "include-today": {
+      "sourceSampleId": "include_train_0bb1f3fe8e437b6e",
+      "sourceVideoPath": "Days_and_Time/73. Today/MVI_4617.MOV",
+      "sourceArchive": "Days_and_Time_1of3.zip",
+      "preferredCatalogSample": true,
+      "elapsedSeconds": 25.372
+    },
+    "include-tomorrow": {
+      "sourceSampleId": "include_train_190b9ae8c51e0e1d",
+      "sourceVideoPath": "Days_and_Time/74. Tomorrow/MVI_4621.MOV",
+      "sourceArchive": "Days_and_Time_2of3.zip",
+      "preferredCatalogSample": true,
+      "elapsedSeconds": 21.288
+    },
+    "include-tool": {
+      "sourceSampleId": "include_train_0a078594d2177fa7",
+      "sourceVideoPath": "Home/50. Tool/MVI_9088.MP4",
+      "sourceArchive": "Home_4of4.zip",
+      "preferredCatalogSample": true,
+      "elapsedSeconds": 10.031
+    },
+    "include-tuesday": {
+      "sourceSampleId": "include_train_0aadd6b26061a994",
+      "sourceVideoPath": "Days_and_Time/68. Tuesday/MVI_4595.MOV",
+      "sourceArchive": "Days_and_Time_1of3.zip",
+      "preferredCatalogSample": true,
+      "elapsedSeconds": 33.328
+    },
+    "include-warm": {
+      "sourceSampleId": "include_train_8a7bdcd98250bc28",
+      "sourceVideoPath": "Adjectives/89. warm/MVI_9494.MOV",
+      "sourceArchive": "Adjectives_6of8.zip",
+      "preferredCatalogSample": true,
+      "elapsedSeconds": 12.42
+    },
+    "include-we": {
+      "sourceSampleId": "include_train_6c0ded7b024983b3",
+      "sourceVideoPath": "Pronouns/45. we/MVI_9904.MOV",
+      "sourceArchive": "Pronouns_2of2.zip",
+      "preferredCatalogSample": true,
+      "elapsedSeconds": 19.483
+    },
+    "include-wednesday": {
+      "sourceSampleId": "include_train_62931340abe472d8",
+      "sourceVideoPath": "Days_and_Time/69. Wednesday/MVI_5456.MOV",
+      "sourceArchive": "Days_and_Time_1of3.zip",
+      "preferredCatalogSample": true,
+      "elapsedSeconds": 14.862
+    },
+    "include-week": {
+      "sourceSampleId": "include_train_ff896acd359a9301",
+      "sourceVideoPath": "Days_and_Time/76. Week/MVI_4629.MOV",
+      "sourceArchive": "Days_and_Time_2of3.zip",
+      "preferredCatalogSample": true,
+      "elapsedSeconds": 17.51
+    },
+    "include-wet": {
+      "sourceSampleId": "include_train_44841475f062a4ab",
+      "sourceVideoPath": "Adjectives/96. wet/MVI_9437.MOV",
+      "sourceArchive": "Adjectives_7of8.zip",
+      "preferredCatalogSample": true,
+      "elapsedSeconds": 13.075
+    },
+    "include-wide": {
+      "sourceSampleId": "include_train_8037034addfc9d96",
+      "sourceVideoPath": "Adjectives/81. wide/MVI_9390.MOV",
+      "sourceArchive": "Adjectives_4of8.zip",
+      "preferredCatalogSample": true,
+      "elapsedSeconds": 12.171
+    },
+    "include-window": {
+      "sourceSampleId": "include_train_e35a5abcabdf6869",
+      "sourceVideoPath": "Home/28. Window/MVI_4362.MOV",
+      "sourceArchive": "Home_1of4.zip",
+      "preferredCatalogSample": true,
+      "elapsedSeconds": 25.352
+    },
+    "include-winter": {
+      "sourceSampleId": "include_train_9346af007011e243",
+      "sourceVideoPath": "Seasons/63. Winter/MVI_4996.MOV",
+      "sourceArchive": "Seasons_1of1.zip",
+      "preferredCatalogSample": true,
+      "elapsedSeconds": 26.965
+    },
+    "include-woman": {
+      "sourceSampleId": "include_train_2486086a5dccf632",
+      "sourceVideoPath": "People/65. Woman/MVI_8630.MP4",
+      "sourceArchive": "People_2of5.zip",
+      "preferredCatalogSample": true,
+      "elapsedSeconds": 17.134
+    },
+    "include-year": {
+      "sourceSampleId": "include_train_301ff54ec27f9d8b",
+      "sourceVideoPath": "Days_and_Time/78. Year/MVI_4638.MOV",
+      "sourceArchive": "Days_and_Time_2of3.zip",
+      "preferredCatalogSample": true,
+      "elapsedSeconds": 23.052
+    },
+    "include-yesterday": {
+      "sourceSampleId": "include_train_807bbeb6ef0c1635",
+      "sourceVideoPath": "Days_and_Time/75. Yesterday/MVI_5037.MOV",
+      "sourceArchive": "Days_and_Time_2of3.zip",
+      "preferredCatalogSample": true,
+      "elapsedSeconds": 23.606
+    },
+    "include-young": {
+      "sourceSampleId": "include_train_50160a60b88ade6f",
+      "sourceVideoPath": "Adjectives/93. young/MVI_9509.MOV",
+      "sourceArchive": "Adjectives_7of8.zip",
+      "preferredCatalogSample": true,
+      "elapsedSeconds": 22.935
+    },
+    "include-youplural": {
+      "sourceSampleId": "include_train_498769e0b0b4c4e9",
+      "sourceVideoPath": "Pronouns/46. you (plural)/MVI_0024.MOV",
+      "sourceArchive": "Pronouns_2of2.zip",
+      "preferredCatalogSample": true,
+      "elapsedSeconds": 18.095
+    }
+  },
+  "failures": {},
+  "targetClips": [
+    {
+      "id": "include-afternoon",
+      "label": "Afternoon",
+      "normalizedLabel": "afternoon",
+      "datasetId": "include",
+      "sourceSampleId": "include_train_cc50a31f316effad",
+      "frameCount": 32,
+      "fps": 16.145833,
+      "durationMs": 1920.0,
+      "timingSource": "retained-frame-timestamps",
+      "expertReviewed": false
+    },
+    {
+      "id": "include-animal",
+      "label": "Animal",
+      "normalizedLabel": "animal",
+      "datasetId": "include",
+      "sourceSampleId": "include_train_6345ecb8f38156a5",
+      "frameCount": 32,
+      "fps": 7.598039,
+      "durationMs": 4080.0,
+      "timingSource": "retained-frame-timestamps",
+      "expertReviewed": false
+    },
+    {
+      "id": "include-baby",
+      "label": "Baby",
+      "normalizedLabel": "baby",
+      "datasetId": "include",
+      "sourceSampleId": "include_train_95b9cee0fcaabf78",
+      "frameCount": 32,
+      "fps": 12.5,
+      "durationMs": 2480.0,
+      "timingSource": "retained-frame-timestamps",
+      "expertReviewed": false
+    },
+    {
+      "id": "include-bad",
+      "label": "bad",
+      "normalizedLabel": "bad",
+      "datasetId": "include",
+      "sourceSampleId": "include_train_a6326b5bd8e5acd1",
+      "frameCount": 32,
+      "fps": 15.5,
+      "durationMs": 2000.0,
+      "timingSource": "retained-frame-timestamps",
+      "expertReviewed": false
+    },
+    {
+      "id": "include-bag",
+      "label": "Bag",
+      "normalizedLabel": "bag",
+      "datasetId": "include",
+      "sourceSampleId": "include_train_90dc3f688d41637b",
+      "frameCount": 32,
+      "fps": 12.5,
+      "durationMs": 2480.0,
+      "timingSource": "retained-frame-timestamps",
+      "expertReviewed": false
+    },
+    {
+      "id": "include-ball",
+      "label": "Ball",
+      "normalizedLabel": "ball",
+      "datasetId": "include",
+      "sourceSampleId": "include_train_cff2fd57d1434701",
+      "frameCount": 32,
+      "fps": 14.903846,
+      "durationMs": 2080.0,
+      "timingSource": "retained-frame-timestamps",
+      "expertReviewed": false
+    },
+    {
+      "id": "include-bank",
+      "label": "Bank",
+      "normalizedLabel": "bank",
+      "datasetId": "include",
+      "sourceSampleId": "include_train_6cc3750ed83d2be7",
+      "frameCount": 32,
+      "fps": 16.145833,
+      "durationMs": 1920.0,
+      "timingSource": "retained-frame-timestamps",
+      "expertReviewed": false
+    },
+    {
+      "id": "include-bed",
+      "label": "Bed",
+      "normalizedLabel": "bed",
+      "datasetId": "include",
+      "sourceSampleId": "include_train_7e34a44075fbc823",
+      "frameCount": 32,
+      "fps": 12.109375,
+      "durationMs": 2560.0,
+      "timingSource": "retained-frame-timestamps",
+      "expertReviewed": false
+    },
+    {
+      "id": "include-bedroom",
+      "label": "Bedroom",
+      "normalizedLabel": "bedroom",
+      "datasetId": "include",
+      "sourceSampleId": "include_train_8c83b99ab92ec257",
+      "frameCount": 32,
+      "fps": 9.011628,
+      "durationMs": 3440.0,
+      "timingSource": "retained-frame-timestamps",
+      "expertReviewed": false
+    },
+    {
+      "id": "include-box",
+      "label": "Box",
+      "normalizedLabel": "box",
+      "datasetId": "include",
+      "sourceSampleId": "include_train_6ca9975227157b0f",
+      "frameCount": 32,
+      "fps": 10.472973,
+      "durationMs": 2960.0,
+      "timingSource": "retained-frame-timestamps",
+      "expertReviewed": false
+    },
+    {
+      "id": "include-brother",
+      "label": "Brother",
+      "normalizedLabel": "brother",
+      "datasetId": "include",
+      "sourceSampleId": "include_train_4cc44fe3b920f3c2",
+      "frameCount": 32,
+      "fps": 13.362069,
+      "durationMs": 2320.0,
+      "timingSource": "retained-frame-timestamps",
+      "expertReviewed": false
+    },
+    {
+      "id": "include-camera",
+      "label": "Camera",
+      "normalizedLabel": "camera",
+      "datasetId": "include",
+      "sourceSampleId": "include_train_3badbdc369a1e45d",
+      "frameCount": 32,
+      "fps": 15.5,
+      "durationMs": 2000.0,
+      "timingSource": "retained-frame-timestamps",
+      "expertReviewed": false
+    },
+    {
+      "id": "include-card",
+      "label": "Card",
+      "normalizedLabel": "card",
+      "datasetId": "include",
+      "sourceSampleId": "include_train_7017f53820577a85",
+      "frameCount": 32,
+      "fps": 9.935897,
+      "durationMs": 3120.0,
+      "timingSource": "retained-frame-timestamps",
+      "expertReviewed": false
+    },
+    {
+      "id": "include-cellphone",
+      "label": "Cell phone",
+      "normalizedLabel": "cellphone",
+      "datasetId": "include",
+      "sourceSampleId": "include_train_44295041ba7e69c1",
+      "frameCount": 32,
+      "fps": 14.351852,
+      "durationMs": 2160.0,
+      "timingSource": "retained-frame-timestamps",
+      "expertReviewed": false
+    },
+    {
+      "id": "include-chair",
+      "label": "Chair",
+      "normalizedLabel": "chair",
+      "datasetId": "include",
+      "sourceSampleId": "include_train_3c4b707fbe82c0e0",
+      "frameCount": 32,
+      "fps": 14.903846,
+      "durationMs": 2080.0,
+      "timingSource": "retained-frame-timestamps",
+      "expertReviewed": false
+    },
+    {
+      "id": "include-clock",
+      "label": "Clock",
+      "normalizedLabel": "clock",
+      "datasetId": "include",
+      "sourceSampleId": "include_train_09b7f3ce721f3504",
+      "frameCount": 32,
+      "fps": 9.6875,
+      "durationMs": 3200.0,
+      "timingSource": "retained-frame-timestamps",
+      "expertReviewed": false
+    },
+    {
+      "id": "include-cold",
+      "label": "cold",
+      "normalizedLabel": "cold",
+      "datasetId": "include",
+      "sourceSampleId": "include_train_2ba15cfc637b6c0f",
+      "frameCount": 32,
+      "fps": 14.903846,
+      "durationMs": 2080.0,
+      "timingSource": "retained-frame-timestamps",
+      "expertReviewed": false
+    },
+    {
+      "id": "include-computer",
+      "label": "Computer",
+      "normalizedLabel": "computer",
+      "datasetId": "include",
+      "sourceSampleId": "include_train_1de7914fb4ea0440",
+      "frameCount": 32,
+      "fps": 11.742424,
+      "durationMs": 2640.0,
+      "timingSource": "retained-frame-timestamps",
+      "expertReviewed": false
+    },
+    {
+      "id": "include-cool",
+      "label": "cool",
+      "normalizedLabel": "cool",
+      "datasetId": "include",
+      "sourceSampleId": "include_train_ead27a0b5068698d",
+      "frameCount": 32,
+      "fps": 15.5,
+      "durationMs": 2000.0,
+      "timingSource": "retained-frame-timestamps",
+      "expertReviewed": false
+    },
+    {
+      "id": "include-door",
+      "label": "Door",
+      "normalizedLabel": "door",
+      "datasetId": "include",
+      "sourceSampleId": "include_train_520208437f86e8e0",
+      "frameCount": 32,
+      "fps": 11.397059,
+      "durationMs": 2720.0,
+      "timingSource": "retained-frame-timestamps",
+      "expertReviewed": false
+    },
+    {
+      "id": "include-dream",
+      "label": "Dream",
+      "normalizedLabel": "dream",
+      "datasetId": "include",
+      "sourceSampleId": "include_train_49ffdc0162b12abd",
+      "frameCount": 32,
+      "fps": 9.6875,
+      "durationMs": 3200.0,
+      "timingSource": "retained-frame-timestamps",
+      "expertReviewed": false
+    },
+    {
+      "id": "include-dry",
+      "label": "dry",
+      "normalizedLabel": "dry",
+      "datasetId": "include",
+      "sourceSampleId": "include_train_7cf5cc13c59fcf71",
+      "frameCount": 32,
+      "fps": 12.916667,
+      "durationMs": 2400.0,
+      "timingSource": "retained-frame-timestamps",
+      "expertReviewed": false
+    },
+    {
+      "id": "include-evening",
+      "label": "Evening",
+      "normalizedLabel": "evening",
+      "datasetId": "include",
+      "sourceSampleId": "include_train_1247c8b45681d7b8",
+      "frameCount": 32,
+      "fps": 16.847826,
+      "durationMs": 1840.0,
+      "timingSource": "retained-frame-timestamps",
+      "expertReviewed": false
+    },
+    {
+      "id": "include-exercise",
+      "label": "Exercise",
+      "normalizedLabel": "exercise",
+      "datasetId": "include",
+      "sourceSampleId": "include_train_01d7ffcf0f1a194e",
+      "frameCount": 32,
+      "fps": 12.5,
+      "durationMs": 2480.0,
+      "timingSource": "retained-frame-timestamps",
+      "expertReviewed": false
+    },
+    {
+      "id": "include-exmonsoon",
+      "label": "Ex. Monsoon",
+      "normalizedLabel": "exmonsoon",
+      "datasetId": "include",
+      "sourceSampleId": "include_train_d0eabc751988b855",
+      "frameCount": 32,
+      "fps": 12.916667,
+      "durationMs": 2400.0,
+      "timingSource": "retained-frame-timestamps",
+      "expertReviewed": false
+    },
+    {
+      "id": "include-fall",
+      "label": "Fall",
+      "normalizedLabel": "fall",
+      "datasetId": "include",
+      "sourceSampleId": "include_train_91b5ca25aba12967",
+      "frameCount": 32,
+      "fps": 13.362069,
+      "durationMs": 2320.0,
+      "timingSource": "retained-frame-timestamps",
+      "expertReviewed": false
+    },
+    {
+      "id": "include-famous",
+      "label": "famous",
+      "normalizedLabel": "famous",
+      "datasetId": "include",
+      "sourceSampleId": "include_train_074f2279f9d65544",
+      "frameCount": 32,
+      "fps": 15.5,
+      "durationMs": 2000.0,
+      "timingSource": "retained-frame-timestamps",
+      "expertReviewed": false
+    },
+    {
+      "id": "include-fan",
+      "label": "Fan",
+      "normalizedLabel": "fan",
+      "datasetId": "include",
+      "sourceSampleId": "include_train_7e1ebd264879c98d",
+      "frameCount": 32,
+      "fps": 13.839286,
+      "durationMs": 2240.0,
+      "timingSource": "retained-frame-timestamps",
+      "expertReviewed": false
+    },
+    {
+      "id": "include-friday",
+      "label": "Friday",
+      "normalizedLabel": "friday",
+      "datasetId": "include",
+      "sourceSampleId": "include_train_bb2a7707ade91c54",
+      "frameCount": 32,
+      "fps": 14.351852,
+      "durationMs": 2160.0,
+      "timingSource": "retained-frame-timestamps",
+      "expertReviewed": false
+    },
+    {
+      "id": "include-gift",
+      "label": "Gift",
+      "normalizedLabel": "gift",
+      "datasetId": "include",
+      "sourceSampleId": "include_train_9d1c28fbe89b796a",
+      "frameCount": 32,
+      "fps": 12.5,
+      "durationMs": 2480.0,
+      "timingSource": "retained-frame-timestamps",
+      "expertReviewed": false
+    },
+    {
+      "id": "include-god",
+      "label": "God",
+      "normalizedLabel": "god",
+      "datasetId": "include",
+      "sourceSampleId": "include_train_229ee3b7c9624ba7",
+      "frameCount": 32,
+      "fps": 12.109375,
+      "durationMs": 2560.0,
+      "timingSource": "retained-frame-timestamps",
+      "expertReviewed": false
+    },
+    {
+      "id": "include-good",
+      "label": "good",
+      "normalizedLabel": "good",
+      "datasetId": "include",
+      "sourceSampleId": "include_train_2f20e4da3fef80f1",
+      "frameCount": 32,
+      "fps": 16.145833,
+      "durationMs": 1920.0,
+      "timingSource": "retained-frame-timestamps",
+      "expertReviewed": false
+    },
+    {
+      "id": "include-goodevening",
+      "label": "Good evening",
+      "normalizedLabel": "goodevening",
+      "datasetId": "include",
+      "sourceSampleId": "include_train_b7082562bc49592c",
+      "frameCount": 32,
+      "fps": 11.742424,
+      "durationMs": 2640.0,
+      "timingSource": "retained-frame-timestamps",
+      "expertReviewed": false
+    },
+    {
+      "id": "include-goodnight",
+      "label": "Good night",
+      "normalizedLabel": "goodnight",
+      "datasetId": "include",
+      "sourceSampleId": "include_train_abf5de6ac8af477d",
+      "frameCount": 32,
+      "fps": 10.197368,
+      "durationMs": 3040.0,
+      "timingSource": "retained-frame-timestamps",
+      "expertReviewed": false
+    },
+    {
+      "id": "include-ground",
+      "label": "Ground",
+      "normalizedLabel": "ground",
+      "datasetId": "include",
+      "sourceSampleId": "include_train_5cc220810fe905f7",
+      "frameCount": 32,
+      "fps": 13.839286,
+      "durationMs": 2240.0,
+      "timingSource": "retained-frame-timestamps",
+      "expertReviewed": false
+    },
+    {
+      "id": "include-healthy",
+      "label": "healthy",
+      "normalizedLabel": "healthy",
+      "datasetId": "include",
+      "sourceSampleId": "include_train_1c61895330d4ba2e",
+      "frameCount": 32,
+      "fps": 12.916667,
+      "durationMs": 2400.0,
+      "timingSource": "retained-frame-timestamps",
+      "expertReviewed": false
+    },
+    {
+      "id": "include-horse",
+      "label": "Horse",
+      "normalizedLabel": "horse",
+      "datasetId": "include",
+      "sourceSampleId": "include_train_194ea8a4b60a45fe",
+      "frameCount": 32,
+      "fps": 11.071429,
+      "durationMs": 2800.0,
+      "timingSource": "retained-frame-timestamps",
+      "expertReviewed": false
+    },
+    {
+      "id": "include-hot",
+      "label": "hot",
+      "normalizedLabel": "hot",
+      "datasetId": "include",
+      "sourceSampleId": "include_train_1abb1e3f9220f23b",
+      "frameCount": 32,
+      "fps": 14.351852,
+      "durationMs": 2160.0,
+      "timingSource": "retained-frame-timestamps",
+      "expertReviewed": false
+    },
+    {
+      "id": "include-hour",
+      "label": "Hour",
+      "normalizedLabel": "hour",
+      "datasetId": "include",
+      "sourceSampleId": "include_train_59a435d2f5e34974",
+      "frameCount": 32,
+      "fps": 14.903846,
+      "durationMs": 2080.0,
+      "timingSource": "retained-frame-timestamps",
+      "expertReviewed": false
+    },
+    {
+      "id": "include-india",
+      "label": "India",
+      "normalizedLabel": "india",
+      "datasetId": "include",
+      "sourceSampleId": "include_train_6c77bfa1356e5f58",
+      "frameCount": 32,
+      "fps": 14.903846,
+      "durationMs": 2080.0,
+      "timingSource": "retained-frame-timestamps",
+      "expertReviewed": false
+    },
+    {
+      "id": "include-key",
+      "label": "Key",
+      "normalizedLabel": "key",
+      "datasetId": "include",
+      "sourceSampleId": "include_train_50eb9d4abc4070d3",
+      "frameCount": 32,
+      "fps": 13.362069,
+      "durationMs": 2320.0,
+      "timingSource": "retained-frame-timestamps",
+      "expertReviewed": false
+    },
+    {
+      "id": "include-lamp",
+      "label": "Lamp",
+      "normalizedLabel": "lamp",
+      "datasetId": "include",
+      "sourceSampleId": "include_train_6991340b842c14bc",
+      "frameCount": 32,
+      "fps": 13.839286,
+      "durationMs": 2240.0,
+      "timingSource": "retained-frame-timestamps",
+      "expertReviewed": false
+    },
+    {
+      "id": "include-laptop",
+      "label": "Laptop",
+      "normalizedLabel": "laptop",
+      "datasetId": "include",
+      "sourceSampleId": "include_train_5f5a9c4a1cbfc8f6",
+      "frameCount": 32,
+      "fps": 12.5,
+      "durationMs": 2480.0,
+      "timingSource": "retained-frame-timestamps",
+      "expertReviewed": false
+    },
+    {
+      "id": "include-letter",
+      "label": "Letter",
+      "normalizedLabel": "letter",
+      "datasetId": "include",
+      "sourceSampleId": "include_train_92c50e3e71aafee6",
+      "frameCount": 32,
+      "fps": 11.071429,
+      "durationMs": 2800.0,
+      "timingSource": "retained-frame-timestamps",
+      "expertReviewed": false
+    },
+    {
+      "id": "include-light",
+      "label": "light",
+      "normalizedLabel": "light",
+      "datasetId": "include",
+      "sourceSampleId": "include_train_77abceb5c57a497c",
+      "frameCount": 32,
+      "fps": 13.362069,
+      "durationMs": 2320.0,
+      "timingSource": "retained-frame-timestamps",
+      "expertReviewed": false
+    },
+    {
+      "id": "include-location",
+      "label": "Location",
+      "normalizedLabel": "location",
+      "datasetId": "include",
+      "sourceSampleId": "include_train_395be07b19a748a8",
+      "frameCount": 32,
+      "fps": 14.351852,
+      "durationMs": 2160.0,
+      "timingSource": "retained-frame-timestamps",
+      "expertReviewed": false
+    },
+    {
+      "id": "include-lock",
+      "label": "Lock",
+      "normalizedLabel": "lock",
+      "datasetId": "include",
+      "sourceSampleId": "include_train_75290dfdbfa1ec80",
+      "frameCount": 32,
+      "fps": 12.916667,
+      "durationMs": 2400.0,
+      "timingSource": "retained-frame-timestamps",
+      "expertReviewed": false
+    },
+    {
+      "id": "include-long",
+      "label": "long",
+      "normalizedLabel": "long",
+      "datasetId": "include",
+      "sourceSampleId": "include_train_1c9b6dc6022f22fc",
+      "frameCount": 32,
+      "fps": 14.903846,
+      "durationMs": 2080.0,
+      "timingSource": "retained-frame-timestamps",
+      "expertReviewed": false
+    },
+    {
+      "id": "include-man",
+      "label": "Man",
+      "normalizedLabel": "man",
+      "datasetId": "include",
+      "sourceSampleId": "include_train_01b16cc65d728fb6",
+      "frameCount": 32,
+      "fps": 13.362069,
+      "durationMs": 2320.0,
+      "timingSource": "retained-frame-timestamps",
+      "expertReviewed": false
+    },
+    {
+      "id": "include-minute",
+      "label": "Minute",
+      "normalizedLabel": "minute",
+      "datasetId": "include",
+      "sourceSampleId": "include_train_4631ea233ce689cf",
+      "frameCount": 32,
+      "fps": 13.839286,
+      "durationMs": 2240.0,
+      "timingSource": "retained-frame-timestamps",
+      "expertReviewed": false
+    },
+    {
+      "id": "include-monday",
+      "label": "Monday",
+      "normalizedLabel": "monday",
+      "datasetId": "include",
+      "sourceSampleId": "include_train_0a029c1168d4c639",
+      "frameCount": 32,
+      "fps": 14.903846,
+      "durationMs": 2080.0,
+      "timingSource": "retained-frame-timestamps",
+      "expertReviewed": false
+    },
+    {
+      "id": "include-month",
+      "label": "Month",
+      "normalizedLabel": "month",
+      "datasetId": "include",
+      "sourceSampleId": "include_train_bdd312ec107d2d71",
+      "frameCount": 32,
+      "fps": 15.5,
+      "durationMs": 2000.0,
+      "timingSource": "retained-frame-timestamps",
+      "expertReviewed": false
+    },
+    {
+      "id": "include-morning",
+      "label": "Morning",
+      "normalizedLabel": "morning",
+      "datasetId": "include",
+      "sourceSampleId": "include_train_08c6726050458820",
+      "frameCount": 32,
+      "fps": 18.452381,
+      "durationMs": 1680.0,
+      "timingSource": "retained-frame-timestamps",
+      "expertReviewed": false
+    },
+    {
+      "id": "include-mouse",
+      "label": "Mouse",
+      "normalizedLabel": "mouse",
+      "datasetId": "include",
+      "sourceSampleId": "include_train_07924b97cddb4a1b",
+      "frameCount": 32,
+      "fps": 10.197368,
+      "durationMs": 3040.0,
+      "timingSource": "retained-frame-timestamps",
+      "expertReviewed": false
+    },
+    {
+      "id": "include-new",
+      "label": "new",
+      "normalizedLabel": "new",
+      "datasetId": "include",
+      "sourceSampleId": "include_train_414c9ff08acc3090",
+      "frameCount": 32,
+      "fps": 16.145833,
+      "durationMs": 1920.0,
+      "timingSource": "retained-frame-timestamps",
+      "expertReviewed": false
+    },
+    {
+      "id": "include-night",
+      "label": "Night",
+      "normalizedLabel": "night",
+      "datasetId": "include",
+      "sourceSampleId": "include_train_3d0600b898d7fd5d",
+      "frameCount": 32,
+      "fps": 18.452381,
+      "durationMs": 1680.0,
+      "timingSource": "retained-frame-timestamps",
+      "expertReviewed": false
+    },
+    {
+      "id": "include-old",
+      "label": "old",
+      "normalizedLabel": "old",
+      "datasetId": "include",
+      "sourceSampleId": "include_train_a7046e1476c705e1",
+      "frameCount": 32,
+      "fps": 15.5,
+      "durationMs": 2000.0,
+      "timingSource": "retained-frame-timestamps",
+      "expertReviewed": false
+    },
+    {
+      "id": "include-paint",
+      "label": "Paint",
+      "normalizedLabel": "paint",
+      "datasetId": "include",
+      "sourceSampleId": "include_train_2dfe796f5b321cba",
+      "frameCount": 32,
+      "fps": 12.109375,
+      "durationMs": 2560.0,
+      "timingSource": "retained-frame-timestamps",
+      "expertReviewed": false
+    },
+    {
+      "id": "include-paper",
+      "label": "Paper",
+      "normalizedLabel": "paper",
+      "datasetId": "include",
+      "sourceSampleId": "include_train_382ce887f4a2c5c4",
+      "frameCount": 32,
+      "fps": 11.742424,
+      "durationMs": 2640.0,
+      "timingSource": "retained-frame-timestamps",
+      "expertReviewed": false
+    },
+    {
+      "id": "include-pleased",
+      "label": "Pleased",
+      "normalizedLabel": "pleased",
+      "datasetId": "include",
+      "sourceSampleId": "include_train_96c035997b83d3a8",
+      "frameCount": 32,
+      "fps": 12.5,
+      "durationMs": 2480.0,
+      "timingSource": "retained-frame-timestamps",
+      "expertReviewed": false
+    },
+    {
+      "id": "include-price",
+      "label": "Price",
+      "normalizedLabel": "price",
+      "datasetId": "include",
+      "sourceSampleId": "include_train_c94dd1b546b75734",
+      "frameCount": 32,
+      "fps": 13.362069,
+      "durationMs": 2320.0,
+      "timingSource": "retained-frame-timestamps",
+      "expertReviewed": false
+    },
+    {
+      "id": "include-radio",
+      "label": "Radio",
+      "normalizedLabel": "radio",
+      "datasetId": "include",
+      "sourceSampleId": "include_train_b4fbdb40f52c4c7e",
+      "frameCount": 32,
+      "fps": 14.351852,
+      "durationMs": 2160.0,
+      "timingSource": "retained-frame-timestamps",
+      "expertReviewed": false
+    },
+    {
+      "id": "include-ring",
+      "label": "Ring",
+      "normalizedLabel": "ring",
+      "datasetId": "include",
+      "sourceSampleId": "include_train_5f70212363f0515d",
+      "frameCount": 32,
+      "fps": 14.351852,
+      "durationMs": 2160.0,
+      "timingSource": "retained-frame-timestamps",
+      "expertReviewed": false
+    },
+    {
+      "id": "include-saturday",
+      "label": "Saturday",
+      "normalizedLabel": "saturday",
+      "datasetId": "include",
+      "sourceSampleId": "include_train_cbff0c00099daf5e",
+      "frameCount": 32,
+      "fps": 13.839286,
+      "durationMs": 2240.0,
+      "timingSource": "retained-frame-timestamps",
+      "expertReviewed": false
+    },
+    {
+      "id": "include-science",
+      "label": "Science",
+      "normalizedLabel": "science",
+      "datasetId": "include",
+      "sourceSampleId": "include_train_0b3360108eb23202",
+      "frameCount": 32,
+      "fps": 11.742424,
+      "durationMs": 2640.0,
+      "timingSource": "retained-frame-timestamps",
+      "expertReviewed": false
+    },
+    {
+      "id": "include-screen",
+      "label": "Screen",
+      "normalizedLabel": "screen",
+      "datasetId": "include",
+      "sourceSampleId": "include_train_5a008f6b4ca5212e",
+      "frameCount": 32,
+      "fps": 12.109375,
+      "durationMs": 2560.0,
+      "timingSource": "retained-frame-timestamps",
+      "expertReviewed": false
+    },
+    {
+      "id": "include-season",
+      "label": "Season",
+      "normalizedLabel": "season",
+      "datasetId": "include",
+      "sourceSampleId": "include_train_a52837966561a6e8",
+      "frameCount": 32,
+      "fps": 6.458333,
+      "durationMs": 4800.0,
+      "timingSource": "retained-frame-timestamps",
+      "expertReviewed": false
+    },
+    {
+      "id": "include-second",
+      "label": "Second",
+      "normalizedLabel": "second",
+      "datasetId": "include",
+      "sourceSampleId": "include_train_550d669e453ee798",
+      "frameCount": 32,
+      "fps": 10.472973,
+      "durationMs": 2960.0,
+      "timingSource": "retained-frame-timestamps",
+      "expertReviewed": false
+    },
+    {
+      "id": "include-short",
+      "label": "short",
+      "normalizedLabel": "short",
+      "datasetId": "include",
+      "sourceSampleId": "include_train_0dfe628bfa9ce4e8",
+      "frameCount": 32,
+      "fps": 15.5,
+      "durationMs": 2000.0,
+      "timingSource": "retained-frame-timestamps",
+      "expertReviewed": false
+    },
+    {
+      "id": "include-sick",
+      "label": "sick",
+      "normalizedLabel": "sick",
+      "datasetId": "include",
+      "sourceSampleId": "include_train_b17dae0a8e25d9cc",
+      "frameCount": 32,
+      "fps": 13.839286,
+      "durationMs": 2240.0,
+      "timingSource": "retained-frame-timestamps",
+      "expertReviewed": false
+    },
+    {
+      "id": "include-sign",
+      "label": "Sign",
+      "normalizedLabel": "sign",
+      "datasetId": "include",
+      "sourceSampleId": "include_train_aec0f59906a4ef6b",
+      "frameCount": 32,
+      "fps": 12.916667,
+      "durationMs": 2400.0,
+      "timingSource": "retained-frame-timestamps",
+      "expertReviewed": false
+    },
+    {
+      "id": "include-sister",
+      "label": "Sister",
+      "normalizedLabel": "sister",
+      "datasetId": "include",
+      "sourceSampleId": "include_train_6599915a4559028d",
+      "frameCount": 32,
+      "fps": 14.351852,
+      "durationMs": 2160.0,
+      "timingSource": "retained-frame-timestamps",
+      "expertReviewed": false
+    },
+    {
+      "id": "include-sport",
+      "label": "Sport",
+      "normalizedLabel": "sport",
+      "datasetId": "include",
+      "sourceSampleId": "include_train_2eeb32515df63560",
+      "frameCount": 32,
+      "fps": 11.071429,
+      "durationMs": 2800.0,
+      "timingSource": "retained-frame-timestamps",
+      "expertReviewed": false
+    },
+    {
+      "id": "include-spring",
+      "label": "Spring",
+      "normalizedLabel": "spring",
+      "datasetId": "include",
+      "sourceSampleId": "include_train_145b8013542cf26b",
+      "frameCount": 32,
+      "fps": 9.011628,
+      "durationMs": 3440.0,
+      "timingSource": "retained-frame-timestamps",
+      "expertReviewed": false
+    },
+    {
+      "id": "include-summer",
+      "label": "Summer",
+      "normalizedLabel": "summer",
+      "datasetId": "include",
+      "sourceSampleId": "include_train_efbd4497e3d688de",
+      "frameCount": 32,
+      "fps": 11.397059,
+      "durationMs": 2720.0,
+      "timingSource": "retained-frame-timestamps",
+      "expertReviewed": false
+    },
+    {
+      "id": "include-sunday",
+      "label": "Sunday",
+      "normalizedLabel": "sunday",
+      "datasetId": "include",
+      "sourceSampleId": "include_train_2b0fe0d31776ead5",
+      "frameCount": 32,
+      "fps": 13.362069,
+      "durationMs": 2320.0,
+      "timingSource": "retained-frame-timestamps",
+      "expertReviewed": false
+    },
+    {
+      "id": "include-table",
+      "label": "Table",
+      "normalizedLabel": "table",
+      "datasetId": "include",
+      "sourceSampleId": "include_train_9692061da9142c94",
+      "frameCount": 32,
+      "fps": 12.5,
+      "durationMs": 2480.0,
+      "timingSource": "retained-frame-timestamps",
+      "expertReviewed": false
+    },
+    {
+      "id": "include-tall",
+      "label": "tall",
+      "normalizedLabel": "tall",
+      "datasetId": "include",
+      "sourceSampleId": "include_train_8b48e69cd1b93721",
+      "frameCount": 32,
+      "fps": 13.839286,
+      "durationMs": 2240.0,
+      "timingSource": "retained-frame-timestamps",
+      "expertReviewed": false
+    },
+    {
+      "id": "include-telephone",
+      "label": "Telephone",
+      "normalizedLabel": "telephone",
+      "datasetId": "include",
+      "sourceSampleId": "include_train_d933c5cc3f89015f",
+      "frameCount": 32,
+      "fps": 13.362069,
+      "durationMs": 2320.0,
+      "timingSource": "retained-frame-timestamps",
+      "expertReviewed": false
+    },
+    {
+      "id": "include-television",
+      "label": "Television",
+      "normalizedLabel": "television",
+      "datasetId": "include",
+      "sourceSampleId": "include_train_cf94a19f0a02bc5b",
+      "frameCount": 32,
+      "fps": 13.839286,
+      "durationMs": 2240.0,
+      "timingSource": "retained-frame-timestamps",
+      "expertReviewed": false
+    },
+    {
+      "id": "include-thankyou",
+      "label": "Thank you",
+      "normalizedLabel": "thankyou",
+      "datasetId": "include",
+      "sourceSampleId": "include_train_1c29ce212acd271d",
+      "frameCount": 32,
+      "fps": 13.362069,
+      "durationMs": 2320.0,
+      "timingSource": "retained-frame-timestamps",
+      "expertReviewed": false
+    },
+    {
+      "id": "include-they",
+      "label": "they",
+      "normalizedLabel": "they",
+      "datasetId": "include",
+      "sourceSampleId": "include_train_1e7ef65d110ebab2",
+      "frameCount": 32,
+      "fps": 12.109375,
+      "durationMs": 2560.0,
+      "timingSource": "retained-frame-timestamps",
+      "expertReviewed": false
+    },
+    {
+      "id": "include-thursday",
+      "label": "Thursday",
+      "normalizedLabel": "thursday",
+      "datasetId": "include",
+      "sourceSampleId": "include_train_d81c13154cd1c4fb",
+      "frameCount": 32,
+      "fps": 13.362069,
+      "durationMs": 2320.0,
+      "timingSource": "retained-frame-timestamps",
+      "expertReviewed": false
+    },
+    {
+      "id": "include-time",
+      "label": "Time",
+      "normalizedLabel": "time",
+      "datasetId": "include",
+      "sourceSampleId": "include_train_1a1753c4fcac1192",
+      "frameCount": 32,
+      "fps": 13.839286,
+      "durationMs": 2240.0,
+      "timingSource": "retained-frame-timestamps",
+      "expertReviewed": false
+    },
+    {
+      "id": "include-today",
+      "label": "Today",
+      "normalizedLabel": "today",
+      "datasetId": "include",
+      "sourceSampleId": "include_train_0bb1f3fe8e437b6e",
+      "frameCount": 32,
+      "fps": 16.847826,
+      "durationMs": 1840.0,
+      "timingSource": "retained-frame-timestamps",
+      "expertReviewed": false
+    },
+    {
+      "id": "include-tomorrow",
+      "label": "Tomorrow",
+      "normalizedLabel": "tomorrow",
+      "datasetId": "include",
+      "sourceSampleId": "include_train_190b9ae8c51e0e1d",
+      "frameCount": 32,
+      "fps": 16.145833,
+      "durationMs": 1920.0,
+      "timingSource": "retained-frame-timestamps",
+      "expertReviewed": false
+    },
+    {
+      "id": "include-tool",
+      "label": "Tool",
+      "normalizedLabel": "tool",
+      "datasetId": "include",
+      "sourceSampleId": "include_train_0a078594d2177fa7",
+      "frameCount": 32,
+      "fps": 11.071429,
+      "durationMs": 2800.0,
+      "timingSource": "retained-frame-timestamps",
+      "expertReviewed": false
+    },
+    {
+      "id": "include-tuesday",
+      "label": "Tuesday",
+      "normalizedLabel": "tuesday",
+      "datasetId": "include",
+      "sourceSampleId": "include_train_0aadd6b26061a994",
+      "frameCount": 32,
+      "fps": 13.362069,
+      "durationMs": 2320.0,
+      "timingSource": "retained-frame-timestamps",
+      "expertReviewed": false
+    },
+    {
+      "id": "include-warm",
+      "label": "warm",
+      "normalizedLabel": "warm",
+      "datasetId": "include",
+      "sourceSampleId": "include_train_8a7bdcd98250bc28",
+      "frameCount": 32,
+      "fps": 12.109375,
+      "durationMs": 2560.0,
+      "timingSource": "retained-frame-timestamps",
+      "expertReviewed": false
+    },
+    {
+      "id": "include-we",
+      "label": "we",
+      "normalizedLabel": "we",
+      "datasetId": "include",
+      "sourceSampleId": "include_train_6c0ded7b024983b3",
+      "frameCount": 32,
+      "fps": 13.839286,
+      "durationMs": 2240.0,
+      "timingSource": "retained-frame-timestamps",
+      "expertReviewed": false
+    },
+    {
+      "id": "include-wednesday",
+      "label": "Wednesday",
+      "normalizedLabel": "wednesday",
+      "datasetId": "include",
+      "sourceSampleId": "include_train_62931340abe472d8",
+      "frameCount": 32,
+      "fps": 14.903846,
+      "durationMs": 2080.0,
+      "timingSource": "retained-frame-timestamps",
+      "expertReviewed": false
+    },
+    {
+      "id": "include-week",
+      "label": "Week",
+      "normalizedLabel": "week",
+      "datasetId": "include",
+      "sourceSampleId": "include_train_ff896acd359a9301",
+      "frameCount": 32,
+      "fps": 13.839286,
+      "durationMs": 2240.0,
+      "timingSource": "retained-frame-timestamps",
+      "expertReviewed": false
+    },
+    {
+      "id": "include-wet",
+      "label": "wet",
+      "normalizedLabel": "wet",
+      "datasetId": "include",
+      "sourceSampleId": "include_train_44841475f062a4ab",
+      "frameCount": 32,
+      "fps": 12.5,
+      "durationMs": 2480.0,
+      "timingSource": "retained-frame-timestamps",
+      "expertReviewed": false
+    },
+    {
+      "id": "include-wide",
+      "label": "wide",
+      "normalizedLabel": "wide",
+      "datasetId": "include",
+      "sourceSampleId": "include_train_8037034addfc9d96",
+      "frameCount": 32,
+      "fps": 13.362069,
+      "durationMs": 2320.0,
+      "timingSource": "retained-frame-timestamps",
+      "expertReviewed": false
+    },
+    {
+      "id": "include-window",
+      "label": "Window",
+      "normalizedLabel": "window",
+      "datasetId": "include",
+      "sourceSampleId": "include_train_e35a5abcabdf6869",
+      "frameCount": 32,
+      "fps": 9.45122,
+      "durationMs": 3280.0,
+      "timingSource": "retained-frame-timestamps",
+      "expertReviewed": false
+    },
+    {
+      "id": "include-winter",
+      "label": "Winter",
+      "normalizedLabel": "winter",
+      "datasetId": "include",
+      "sourceSampleId": "include_train_9346af007011e243",
+      "frameCount": 32,
+      "fps": 14.351852,
+      "durationMs": 2160.0,
+      "timingSource": "retained-frame-timestamps",
+      "expertReviewed": false
+    },
+    {
+      "id": "include-woman",
+      "label": "Woman",
+      "normalizedLabel": "woman",
+      "datasetId": "include",
+      "sourceSampleId": "include_train_2486086a5dccf632",
+      "frameCount": 32,
+      "fps": 14.351852,
+      "durationMs": 2160.0,
+      "timingSource": "retained-frame-timestamps",
+      "expertReviewed": false
+    },
+    {
+      "id": "include-year",
+      "label": "Year",
+      "normalizedLabel": "year",
+      "datasetId": "include",
+      "sourceSampleId": "include_train_301ff54ec27f9d8b",
+      "frameCount": 32,
+      "fps": 15.5,
+      "durationMs": 2000.0,
+      "timingSource": "retained-frame-timestamps",
+      "expertReviewed": false
+    },
+    {
+      "id": "include-yesterday",
+      "label": "Yesterday",
+      "normalizedLabel": "yesterday",
+      "datasetId": "include",
+      "sourceSampleId": "include_train_807bbeb6ef0c1635",
+      "frameCount": 32,
+      "fps": 15.5,
+      "durationMs": 2000.0,
+      "timingSource": "retained-frame-timestamps",
+      "expertReviewed": false
+    },
+    {
+      "id": "include-young",
+      "label": "young",
+      "normalizedLabel": "young",
+      "datasetId": "include",
+      "sourceSampleId": "include_train_50160a60b88ade6f",
+      "frameCount": 32,
+      "fps": 15.5,
+      "durationMs": 2000.0,
+      "timingSource": "retained-frame-timestamps",
+      "expertReviewed": false
+    },
+    {
+      "id": "include-youplural",
+      "label": "you (plural)",
+      "normalizedLabel": "youplural",
+      "datasetId": "include",
+      "sourceSampleId": "include_train_498769e0b0b4c4e9",
+      "frameCount": 32,
+      "fps": 10.763889,
+      "durationMs": 2880.0,
+      "timingSource": "retained-frame-timestamps",
+      "expertReviewed": false
+    }
+  ]
+}

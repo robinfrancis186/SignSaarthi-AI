@@ -1,0 +1,11 @@
+{
+  "extends": "../../tsconfig.base.json",
+  "compilerOptions": {
+    "composite": true,
+    "jsx": "react-jsx",
+    "types": ["chrome", "vitest/globals", "@testing-library/jest-dom"],
+    "noEmit": true
+  },
+  "references": [{ "path": "../../packages/shared" }, { "path": "../../packages/avatar-engine" }],
+  "include": ["src", "vite.config.ts"]
+}

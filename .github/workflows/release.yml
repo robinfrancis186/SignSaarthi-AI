@@ -1,0 +1,108 @@
+name: Verified release
+
+on:
+  workflow_dispatch:
+  push:
+    tags:
+      - "v*"
+
+concurrency:
+  group: release-${{ github.ref }}
+  cancel-in-progress: false
+
+permissions:
+  contents: read
+  id-token: write
+  attestations: write
+  artifact-metadata: write
+
+jobs:
+  release:
+    name: Build, verify, and attest
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    env:
+      CI: "true"
+      SIGNSAARTHI_RELEASE_MODE: production
+
+    steps:
+      - name: Check out exact source
+        uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6.0.2
+        with:
+          fetch-depth: 0
+          persist-credentials: false
+
+      - name: Set up pinned Node.js
+        uses: actions/setup-node@48b55a011bda9f5d6aeb4c2d9c7362e8dae4041e # v6.4.0
+        with:
+          node-version-file: .node-version
+          package-manager-cache: false
+
+      - name: Set up Python
+        uses: actions/setup-python@ece7cb06caefa5fff74198d8649806c4678c61a1 # v6.3.0
+        with:
+          python-version: "3.11"
+          cache: pip
+          cache-dependency-path: |
+            scripts/requirements-mediapipe.txt
+            scripts/requirements-isign.txt
+            scripts/requirements-isign-training.txt
+
+      - name: Enable the repository package manager
+        run: |
+          corepack enable
+          corepack install
+          pnpm --version
+
+      - name: Install locked dependencies
+        run: pnpm install --frozen-lockfile
+
+      - name: Install Python verification environments
+        run: |
+          python -m venv .venv-mediapipe
+          .venv-mediapipe/bin/python -m pip install --upgrade pip
+          .venv-mediapipe/bin/python -m pip install \
+            -r scripts/requirements-mediapipe.txt \
+            -r scripts/requirements-isign.txt
+
+          python -m venv .venv-isign-training
+          .venv-isign-training/bin/python -m pip install --upgrade pip
+          .venv-isign-training/bin/python -m pip install \
+            -r scripts/requirements-isign-training.txt
+
+      - name: Install the Chromium smoke-test runtime
+        run: pnpm exec playwright install --with-deps chromium
+
+      - name: Build the generated dataset validation bundle
+        run: pnpm dataset:unified:build
+
+      - name: Run the complete release gate
+        run: pnpm verify
+
+      - name: Revalidate the immutable release archive
+        id: release-artifact
+        shell: bash
+        run: |
+          mapfile -t checksums < <(find output -maxdepth 1 -type f -name 'signsaarthi-local-release-*.zip.sha256' -print)
+          test "${#checksums[@]}" -eq 1
+          checksum="${checksums[0]}"
+          archive="output/$(awk '{print $2}' "$checksum")"
+          test -f "$archive"
+          pnpm exec tsx --tsconfig tsconfig.scripts.json scripts/package-local-release.ts --verify-archive "$archive" "$checksum"
+          echo "archive=$archive" >> "$GITHUB_OUTPUT"
+          echo "checksum=$checksum" >> "$GITHUB_OUTPUT"
+
+      - name: Attest the archive provenance
+        uses: actions/attest@a1948c3f048ba23858d222213b7c278aabede763 # v4.1.1
+        with:
+          subject-path: ${{ steps.release-artifact.outputs.archive }}
+
+      - name: Upload verified release
+        uses: actions/upload-artifact@043fb46d1a93c77aae656e7c1c64a875d1fc6a0a # v7.0.1
+        with:
+          name: signsaarthi-local-release-${{ github.sha }}
+          path: |
+            ${{ steps.release-artifact.outputs.archive }}
+            ${{ steps.release-artifact.outputs.checksum }}
+          if-no-files-found: error
+          compression-level: 0

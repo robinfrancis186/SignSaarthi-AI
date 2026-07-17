@@ -1,0 +1,7 @@
+ijson==3.4.0.post0
+numpy==2.4.6
+onnx==1.22.0
+onnxruntime==1.27.0
+scikit-learn==1.9.0
+torch==2.13.0
+transformers==5.13.1

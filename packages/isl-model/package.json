@@ -1,0 +1,22 @@
+{
+  "name": "@signsaarthi/isl-model",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "scripts": {
+    "build": "tsc -b tsconfig.json",
+    "lint": "eslint .",
+    "test": "vitest run",
+    "typecheck": "tsc -b tsconfig.json",
+    "verify:release": "vitest run --reporter=verbose src/release.test.ts"
+  },
+  "dependencies": {
+    "@signsaarthi/shared": "workspace:*",
+    "zod": "^3.25.76"
+  },
+  "devDependencies": {
+    "vitest": "^3.2.4"
+  }
+}

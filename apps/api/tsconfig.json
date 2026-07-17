@@ -1,0 +1,16 @@
+{
+  "extends": "../../tsconfig.base.json",
+  "compilerOptions": {
+    "composite": true,
+    "outDir": "dist",
+    "rootDir": "src"
+  },
+  "references": [
+    { "path": "../../packages/shared" },
+    { "path": "../../packages/isl-engine" },
+    { "path": "../../packages/avatar-engine" },
+    { "path": "../../packages/isl-model" },
+    { "path": "../../packages/isl-video-model" }
+  ],
+  "include": ["src"]
+}

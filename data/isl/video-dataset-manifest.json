@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-07-07T00:00:00.000Z",
+  "description": "Local metadata manifest for SignSaarthi video/keypoint pipeline. Source videos stay outside git; this file tracks provenance and fixture-compatible schema.",
+  "datasets": [
+    {
+      "id": "include",
+      "name": "INCLUDE - Indian Lexicon Sign Language Dataset",
+      "sourceUrl": "https://huggingface.co/datasets/ai4bharat/INCLUDE",
+      "codeUrl": "https://github.com/AI4Bharat/INCLUDE",
+      "task": "isolated_sign_recognition",
+      "splits": { "train": 3816, "val": 425, "test": 1009 },
+      "columns": ["parent_label", "label", "video_path", "include_50"],
+      "localKeypointUri": "data/isl/keypoints.sample.json",
+      "notes": [
+        "Use scripts/fetch-include-metadata.ts to refresh Hugging Face row metadata.",
+        "Use AI4Bharat INCLUDE generate_keypoints.py or an equivalent MediaPipe Hands + BlazePose extractor to produce full keypoint JSON.",
+        "Published split names are provenance only: exact video_path overlap is train/val 120, train/test 277, and val/test 27. Re-split by unique media identity before evaluation."
+      ]
+    },
+    {
+      "id": "isign",
+      "name": "iSign benchmark",
+      "sourceUrl": "https://huggingface.co/datasets/Exploration-Lab/iSign",
+      "task": "translation_and_pose_benchmark",
+      "access": "gated",
+      "notes": [
+        "Requires Hugging Face login and acceptance of dataset terms.",
+        "Do not commit gated source files or raw videos to the repository."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "@signsaarthi/api",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "main": "./dist/main.js",
+  "scripts": {
+    "build": "tsc -b tsconfig.json",
+    "dev": "tsx --tsconfig tsconfig.dev.json watch src/main.ts",
+    "lint": "eslint .",
+    "start": "node dist/main.js",
+    "test": "vitest run",
+    "typecheck": "tsc -b tsconfig.json"
+  },
+  "dependencies": {
+    "@fastify/cors": "^11.0.1",
+    "@signsaarthi/avatar-engine": "workspace:*",
+    "@signsaarthi/isl-engine": "workspace:*",
+    "@signsaarthi/isl-model": "workspace:*",
+    "@signsaarthi/isl-video-model": "workspace:*",
+    "@signsaarthi/shared": "workspace:*",
+    "fastify": "^5.4.0",
+    "onnxruntime-node": "1.22.0",
+    "zod": "^3.25.76"
+  },
+  "devDependencies": {
+    "tsx": "^4.20.3",
+    "vitest": "^3.2.4"
+  }
+}

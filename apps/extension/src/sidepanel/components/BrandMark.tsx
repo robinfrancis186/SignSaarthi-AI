@@ -1,0 +1,19 @@
+import type { ReactElement } from "react";
+
+export function BrandMark(): ReactElement {
+  return (
+    <div className="brand-mark" aria-hidden="true">
+      <svg viewBox="0 0 32 32" role="img">
+        <circle cx="16" cy="16" r="15" fill="#007c83" />
+        <path
+          d="M10.5 18.5v-7.1c0-.8.6-1.4 1.4-1.4s1.4.6 1.4 1.4v5.2M13.3 17.8V9.4c0-.8.7-1.4 1.5-1.4s1.4.6 1.4 1.4v7.8M16.2 17.2V10c0-.8.6-1.4 1.4-1.4S19 9.2 19 10v7.7M19 18.4v-5.2c0-.8.6-1.4 1.4-1.4s1.4.6 1.4 1.4v7.1c0 3.4-2.5 5.7-5.7 5.7-2.1 0-3.7-.8-4.9-2.3l-2.4-3c-.5-.6-.4-1.5.2-2 .6-.4 1.4-.3 1.9.2l1.5 1.6"
+          fill="none"
+          stroke="#ffffff"
+          strokeLinecap="round"
+          strokeLinejoin="round"
+          strokeWidth="1.8"
+        />
+      </svg>
+    </div>
+  );
+}

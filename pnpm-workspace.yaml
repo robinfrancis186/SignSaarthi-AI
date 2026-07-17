@@ -1,0 +1,9 @@
+packages:
+  - "apps/*"
+  - "packages/*"
+
+onlyBuiltDependencies:
+  - onnxruntime-node
+allowBuilds:
+  esbuild: true
+  onnxruntime-node: true

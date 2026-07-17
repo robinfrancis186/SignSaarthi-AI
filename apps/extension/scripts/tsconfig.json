@@ -1,0 +1,12 @@
+{
+  "extends": "../../../tsconfig.base.json",
+  "compilerOptions": {
+    "baseUrl": "../../..",
+    "noEmit": true,
+    "paths": {
+      "@signsaarthi/avatar-engine": ["packages/avatar-engine/src/index.ts"],
+      "@signsaarthi/shared": ["packages/shared/src/index.ts"]
+    }
+  },
+  "include": ["*.ts"]
+}

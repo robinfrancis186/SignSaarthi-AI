@@ -1,0 +1,6 @@
+-r requirements-isign.txt
+onnx>=1.17,<2
+onnxruntime>=1.20,<2
+onnxscript>=0.5,<1
+pillow>=11,<13
+torch>=2.4,<3

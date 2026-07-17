@@ -1,0 +1,20 @@
+title = "SignSaarthi secret scanning"
+
+[extend]
+useDefault = true
+
+[[allowlists]]
+description = "Chrome uses this committed RSA public key to keep the unpacked extension ID stable."
+targetRules = ["generic-api-key"]
+condition = "AND"
+regexTarget = "line"
+paths = ['''(^|/)apps/extension/src/manifest\.ts$''']
+regexes = ['''^\s*key:\s*"MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8A[A-Za-z0-9+/=]+",$''']
+
+[[allowlists]]
+description = "Zenodo calls public archive filenames keys in its record metadata."
+targetRules = ["generic-api-key"]
+condition = "AND"
+regexTarget = "line"
+paths = ['''(^|/)data/isl/include-zenodo-record\.json$''']
+regexes = ['''^\s*"key":\s*"[A-Za-z_]+_[0-9]+of[0-9]+\.zip",$''']

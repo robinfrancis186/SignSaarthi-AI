@@ -1,0 +1,23 @@
+# SignSaarthi graph corpus: source, tests, configs, and build tooling only.
+/graphify-out/
+/output/
+/node_modules/
+/.venv-*/
+/data/
+/private/
+/tmp/
+/candidates/
+/src/
+/public/
+/${out}/
+/${root}/
+/${p}
+**/._*
+**/.DS_Store
+
+# Generated/runtime-heavy assets are represented by their loaders and generators.
+/apps/extension/src/assets/motion/*.json
+/packages/avatar-engine/src/motionCatalog.generated.json
+
+# Discovery/audit scratch data is not application source.
+/*.jsonl

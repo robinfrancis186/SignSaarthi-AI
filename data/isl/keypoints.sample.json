@@ -1,0 +1,170 @@
+[
+  {
+    "sampleId": "include_today_train_001",
+    "label": "73. Today",
+    "gloss": "TODAY",
+    "datasetId": "include",
+    "split": "train",
+    "signerHash": "fixture_signer",
+    "fps": 25,
+    "durationMs": 240,
+    "extractorVersion": "mediapipe-hands-blazepose-fixture",
+    "missingKeypointRatio": 0,
+    "license": "INCLUDE dataset terms; synthetic keypoint fixture for local tests",
+    "frames": [
+      {
+        "timestampMs": 0,
+        "landmarks": [
+          { "part": "left_hand", "index": 0, "x": 0.44, "y": 0.52, "visibility": 0.98 },
+          { "part": "left_hand", "index": 1, "x": 0.42, "y": 0.62, "visibility": 0.98 },
+          { "part": "right_hand", "index": 0, "x": 0.58, "y": 0.25, "visibility": 0.98 },
+          { "part": "right_hand", "index": 1, "x": 0.61, "y": 0.35, "visibility": 0.98 }
+        ]
+      },
+      {
+        "timestampMs": 80,
+        "landmarks": [
+          { "part": "left_hand", "index": 0, "x": 0.44, "y": 0.53, "visibility": 0.98 },
+          { "part": "left_hand", "index": 1, "x": 0.42, "y": 0.63, "visibility": 0.98 },
+          { "part": "right_hand", "index": 0, "x": 0.57, "y": 0.31, "visibility": 0.98 },
+          { "part": "right_hand", "index": 1, "x": 0.6, "y": 0.42, "visibility": 0.98 }
+        ]
+      },
+      {
+        "timestampMs": 160,
+        "landmarks": [
+          { "part": "left_hand", "index": 0, "x": 0.45, "y": 0.53, "visibility": 0.98 },
+          { "part": "left_hand", "index": 1, "x": 0.43, "y": 0.63, "visibility": 0.98 },
+          { "part": "right_hand", "index": 0, "x": 0.57, "y": 0.38, "visibility": 0.98 },
+          { "part": "right_hand", "index": 1, "x": 0.6, "y": 0.48, "visibility": 0.98 }
+        ]
+      }
+    ]
+  },
+  {
+    "sampleId": "include_today_val_001",
+    "label": "73. Today",
+    "gloss": "TODAY",
+    "datasetId": "include",
+    "split": "val",
+    "signerHash": "fixture_signer",
+    "fps": 25,
+    "durationMs": 240,
+    "extractorVersion": "mediapipe-hands-blazepose-fixture",
+    "missingKeypointRatio": 0,
+    "license": "INCLUDE dataset terms; synthetic keypoint fixture for local tests",
+    "frames": [
+      {
+        "timestampMs": 0,
+        "landmarks": [
+          { "part": "left_hand", "index": 0, "x": 0.43, "y": 0.52, "visibility": 0.98 },
+          { "part": "left_hand", "index": 1, "x": 0.42, "y": 0.61, "visibility": 0.98 },
+          { "part": "right_hand", "index": 0, "x": 0.59, "y": 0.26, "visibility": 0.98 },
+          { "part": "right_hand", "index": 1, "x": 0.62, "y": 0.36, "visibility": 0.98 }
+        ]
+      },
+      {
+        "timestampMs": 80,
+        "landmarks": [
+          { "part": "left_hand", "index": 0, "x": 0.44, "y": 0.53, "visibility": 0.98 },
+          { "part": "left_hand", "index": 1, "x": 0.42, "y": 0.62, "visibility": 0.98 },
+          { "part": "right_hand", "index": 0, "x": 0.58, "y": 0.32, "visibility": 0.98 },
+          { "part": "right_hand", "index": 1, "x": 0.61, "y": 0.42, "visibility": 0.98 }
+        ]
+      },
+      {
+        "timestampMs": 160,
+        "landmarks": [
+          { "part": "left_hand", "index": 0, "x": 0.45, "y": 0.53, "visibility": 0.98 },
+          { "part": "left_hand", "index": 1, "x": 0.43, "y": 0.62, "visibility": 0.98 },
+          { "part": "right_hand", "index": 0, "x": 0.58, "y": 0.39, "visibility": 0.98 },
+          { "part": "right_hand", "index": 1, "x": 0.61, "y": 0.48, "visibility": 0.98 }
+        ]
+      }
+    ]
+  },
+  {
+    "sampleId": "include_peace_train_001",
+    "label": "12. Peace",
+    "gloss": "PEACE",
+    "datasetId": "include",
+    "split": "train",
+    "signerHash": "fixture_signer",
+    "fps": 25,
+    "durationMs": 240,
+    "extractorVersion": "mediapipe-hands-blazepose-fixture",
+    "missingKeypointRatio": 0,
+    "license": "INCLUDE dataset terms; synthetic keypoint fixture for local tests",
+    "frames": [
+      {
+        "timestampMs": 0,
+        "landmarks": [
+          { "part": "left_hand", "index": 0, "x": 0.38, "y": 0.43, "visibility": 0.98 },
+          { "part": "left_hand", "index": 1, "x": 0.48, "y": 0.49, "visibility": 0.98 },
+          { "part": "right_hand", "index": 0, "x": 0.62, "y": 0.43, "visibility": 0.98 },
+          { "part": "right_hand", "index": 1, "x": 0.52, "y": 0.49, "visibility": 0.98 }
+        ]
+      },
+      {
+        "timestampMs": 80,
+        "landmarks": [
+          { "part": "left_hand", "index": 0, "x": 0.4, "y": 0.45, "visibility": 0.98 },
+          { "part": "left_hand", "index": 1, "x": 0.5, "y": 0.5, "visibility": 0.98 },
+          { "part": "right_hand", "index": 0, "x": 0.6, "y": 0.45, "visibility": 0.98 },
+          { "part": "right_hand", "index": 1, "x": 0.5, "y": 0.5, "visibility": 0.98 }
+        ]
+      },
+      {
+        "timestampMs": 160,
+        "landmarks": [
+          { "part": "left_hand", "index": 0, "x": 0.42, "y": 0.47, "visibility": 0.98 },
+          { "part": "left_hand", "index": 1, "x": 0.51, "y": 0.51, "visibility": 0.98 },
+          { "part": "right_hand", "index": 0, "x": 0.58, "y": 0.47, "visibility": 0.98 },
+          { "part": "right_hand", "index": 1, "x": 0.49, "y": 0.51, "visibility": 0.98 }
+        ]
+      }
+    ]
+  },
+  {
+    "sampleId": "include_peace_val_001",
+    "label": "12. Peace",
+    "gloss": "PEACE",
+    "datasetId": "include",
+    "split": "val",
+    "signerHash": "fixture_signer",
+    "fps": 25,
+    "durationMs": 240,
+    "extractorVersion": "mediapipe-hands-blazepose-fixture",
+    "missingKeypointRatio": 0,
+    "license": "INCLUDE dataset terms; synthetic keypoint fixture for local tests",
+    "frames": [
+      {
+        "timestampMs": 0,
+        "landmarks": [
+          { "part": "left_hand", "index": 0, "x": 0.39, "y": 0.44, "visibility": 0.98 },
+          { "part": "left_hand", "index": 1, "x": 0.48, "y": 0.5, "visibility": 0.98 },
+          { "part": "right_hand", "index": 0, "x": 0.61, "y": 0.44, "visibility": 0.98 },
+          { "part": "right_hand", "index": 1, "x": 0.52, "y": 0.5, "visibility": 0.98 }
+        ]
+      },
+      {
+        "timestampMs": 80,
+        "landmarks": [
+          { "part": "left_hand", "index": 0, "x": 0.41, "y": 0.45, "visibility": 0.98 },
+          { "part": "left_hand", "index": 1, "x": 0.5, "y": 0.5, "visibility": 0.98 },
+          { "part": "right_hand", "index": 0, "x": 0.59, "y": 0.45, "visibility": 0.98 },
+          { "part": "right_hand", "index": 1, "x": 0.5, "y": 0.5, "visibility": 0.98 }
+        ]
+      },
+      {
+        "timestampMs": 160,
+        "landmarks": [
+          { "part": "left_hand", "index": 0, "x": 0.43, "y": 0.47, "visibility": 0.98 },
+          { "part": "left_hand", "index": 1, "x": 0.51, "y": 0.51, "visibility": 0.98 },
+          { "part": "right_hand", "index": 0, "x": 0.57, "y": 0.47, "visibility": 0.98 },
+          { "part": "right_hand", "index": 1, "x": 0.49, "y": 0.51, "visibility": 0.98 }
+        ]
+      }
+    ]
+  }
+]
