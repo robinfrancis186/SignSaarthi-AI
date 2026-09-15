@@ -43,6 +43,8 @@
 > Automated motion may be wrong. Use a qualified human interpreter for legal,
 > medical, emergency, or other high-stakes communication.
 
+Screenshots above were refreshed on September 15, 2026 using the packaged extension smoke test with deterministic caption input: a 1440×900 page and a 420×900 side panel. They demonstrate the interface and playback flow, not live-site or linguistic accuracy validation.
+
 ## Why this project exists
 
 Most video accessibility ends at captions. SignSaarthi explores a practical next
@@ -171,6 +173,22 @@ See [the ML pipeline](docs/ml-pipeline.md) and
 [Hugging Face release boundary](docs/hugging-face-training.md) for exact hashes,
 split rules, validators, and licensing constraints.
 
+## Continuous integration
+
+[![CI](https://github.com/robinfrancis186/SignSaarthi-AI/actions/workflows/ci.yml/badge.svg)](https://github.com/robinfrancis186/SignSaarthi-AI/actions/workflows/ci.yml)
+
+Pull requests and pushes to `main` run lint, workspace and script type checks, unit/component tests, and production builds using the pinned Node and pnpm versions. Run the same lightweight checks locally:
+
+```sh
+pnpm lint
+pnpm typecheck
+pnpm scripts:typecheck
+pnpm test
+pnpm build
+```
+
+This CI does not fetch gated research data, call paid AI services, or certify interpretation accuracy. The separate manual/tag-triggered release workflow retains the heavyweight dataset/model gate.
+
 ## Verification
 
 The main release gate intentionally runs twice:
@@ -267,3 +285,7 @@ rights stated by their respective owners.
 <p align="center">
   <sub>Built for transparent accessibility research, with every fallback visible.</sub>
 </p>
+
+## Contribution history
+
+This repository contains the extension, local API, shared engines, and verification tooling. [Commit history](https://github.com/robinfrancis186/SignSaarthi-AI/commits/main/) records authorship. Dataset and motion sources retain the attribution and restrictions in [NOTICE](NOTICE); contributor identity does not imply expert linguistic validation.
