@@ -25,6 +25,9 @@ jobs:
         with:
           node-version-file: .node-version
       - name: Install locked dependencies
+        env:
+          # CPU binaries ship with the package; lightweight checks do not need CUDA.
+          ONNXRUNTIME_NODE_INSTALL: skip
         run: |
           corepack enable
           corepack install
